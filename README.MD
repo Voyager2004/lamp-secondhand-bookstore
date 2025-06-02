@@ -1,7 +1,6 @@
 # Secondhand Book Trading Web App
 
 校园二手书交易网站 —— 基于 **LAMP**（Linux + Apache + MySQL + PHP）搭建的课程项目。
-钟岩-2023302181136
 
 > **目标**：演示从需求分析 → 数据库设计 → Web 实现 → 部署上线的完整流程，供《数据库系统原理》实验报告与课堂演示使用。
 
